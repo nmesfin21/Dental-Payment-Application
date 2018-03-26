@@ -1,0 +1,9 @@
+Patient               Peter Rabbit
+
+cleaning                    $35.00
+cavity                     $150.00
+X-ray                       $85.00
+Flouride                    $50.00
+RootCanal                  $750.00
+------------------------------------
+Total                     $1,070.00
