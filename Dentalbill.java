@@ -6,7 +6,7 @@ import java.text.NumberFormat;
  * DentalBill.java
  * an invice class to calculate and display the dental bill
  * @author Natnael Tezera
- * @
+ * 
  */
 public class Dentalbill 
 {
